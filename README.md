@@ -1,5 +1,5 @@
-<p align="center"> ***Thoughts of Thoughts*** </p>
 <p align="center"> Live with a purpose </p>
+
 ---
 
 **Projects**
