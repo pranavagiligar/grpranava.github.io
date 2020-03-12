@@ -1,4 +1,4 @@
-# [Thoughts of Thoguhts](pranavagiligar.github.io)
+# [Thoughts of Thoguhts](https://pranavagiligar.github.io/)
 
 ---
 
