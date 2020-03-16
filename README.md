@@ -1,4 +1,4 @@
-<p align="center"> Live with a purpose </p>
+<p align="center">  </p>
 
 ---
 
@@ -12,4 +12,4 @@
 
 ---
 
-Insane thoughts of mine - Pranava Giligar (under [CC-BY-SA-4](https://github.com/pranavagiligar/pranavagiligar.github.io/blob/master/LICENSE.md))
+Pranava Giligar (under [CC-BY-SA-4](https://github.com/pranavagiligar/pranavagiligar.github.io/blob/master/LICENSE.md))
