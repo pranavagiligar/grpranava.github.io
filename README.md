@@ -1,7 +1,5 @@
 <p align="center">  </p>
 
----
-
 **Projects**
   - [Naada](https://github.com/pranavagiligar/naada): A music player for Android phones
   - [FileHider](https://github.com/pranavagiligar/filehider): A safty encryption file explorer for Android phones
